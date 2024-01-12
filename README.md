@@ -5,3 +5,7 @@ Dependências
 - Composer
 - Node JS > NPM
 - Laravel 10
+
+Mais em: https://laravel.com/
+
+Eu em: felipeldnascimento@gmail.com
